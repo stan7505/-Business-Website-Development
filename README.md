@@ -1,4 +1,4 @@
-# -Business-Website-Development
+![image](https://github.com/user-attachments/assets/145fbe68-feac-428b-bf8c-70de4b2e3e29)# -Business-Website-Development
 design and build a website for a fictional small business. The website should be professional and user-friendly, providing visitors with information about the business, its services, contact details, and potentially, an online store.
 HTML Structure:
 
@@ -26,3 +26,9 @@ The website is responsive and adapts its layout for smaller screens by modifying
 Note:
 
 The code includes images and file paths for various resources (e.g., images and styles) that are not provided in the code snippet. To fully implement this code, you would need these resources available in your project.
+<img src="https://github.com/user-attachments/assets/720aea80-9b8b-41fd-b77e-92f9e9c45ac4" alt="Screenshot (5)">
+<img src="https://github.com/user-attachments/assets/dc8c101e-bcc8-43d4-b760-a16f6e647fdf" alt="Screenshot (4)">
+<img src="https://github.com/user-attachments/assets/09a7a59c-1f96-4176-9d1c-a3c265f1c6d8" alt="Screenshot 2025-01-13 121656">
+<img src="https://github.com/user-attachments/assets/b7715268-a7cb-4047-98b1-30e43e34a6d3" alt="Screenshot (7)">
+<img src="https://github.com/user-attachments/assets/0424d64f-7437-4587-9129-2fe0f3c1455e" alt="Screenshot (6)">
+
