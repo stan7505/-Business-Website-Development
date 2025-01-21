@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/145fbe68-feac-428b-bf8c-70de4b2e3e29)# -Business-Website-Development
+# -Business-Website-Development
 design and build a website for a fictional small business. The website should be professional and user-friendly, providing visitors with information about the business, its services, contact details, and potentially, an online store.
 HTML Structure:
 
